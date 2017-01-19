@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mConstantSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA number[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate to itself[0m[0m
+[0m[[0minfo[0m] [0m[32mA string[0m[0m
+[0m[[0minfo[0m] [0m[32m- should also evaluate to itself[0m[0m
+[0m[[0minfo[0m] [0m[32mBoolean values[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m

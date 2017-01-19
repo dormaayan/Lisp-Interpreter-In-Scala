@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+    <info
+            organisation="default"
+            module="lispinterpreterinscala$sources_2.11"
+            revision="1.0"
+            conf="compile-internal"
+            confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+            date="20170114194113"/>
+    <dependencies>
+        <module organisation="org.clapper" name="argot_2.11">
+            <revision name="1.0.4" status="release" pubdate="20150918171638" resolver="sbt-chain"
+                      artresolver="sbt-chain" homepage="http://software.clapper.org/argot/" downloaded="false"
+                      searched="false" default="false" conf="default, compile, runtime, default(compile), master"
+                      position="3">
+                <license name="BSD" url="http://software.clapper.org/argot/license.html"/>
+                <metadata-artifact status="no" details="" size="2940" time="0"
+                                   location="/Users/Dor/.ivy2/cache/org.clapper/argot_2.11/ivy-1.0.4.xml"
+                                   searched="false" origin-is-local="false"
+                                   origin-location="https://jcenter.bintray.com/org/clapper/argot_2.11/1.0.4/argot_2.11-1.0.4.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="1.0.4" rev-constraint-default="1.0.4"
+                        rev-constraint-dynamic="1.0.4" callerrev="1.0"/>
+                <artifacts>
+                    <artifact name="argot_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details=""
+                              size="14168" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.clapper/argot_2.11/srcs/argot_2.11-1.0.4-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/clapper/argot_2.11/1.0.4/argot_2.11-1.0.4-sources.jar"/>
+                    </artifact>
+                    <artifact name="argot_2.11" type="jar" ext="jar" status="no" details="" size="108461" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.clapper/argot_2.11/jars/argot_2.11-1.0.4.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/clapper/argot_2.11/1.0.4/argot_2.11-1.0.4.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+        <module organisation="org.clapper" name="grizzled-scala_2.11">
+            <revision name="1.3" status="release" pubdate="20150112171512" resolver="sbt-chain" artresolver="sbt-chain"
+                      homepage="http://software.clapper.org/grizzled-scala/" downloaded="false" searched="false"
+                      default="false" conf="default, compile, runtime, default(compile), master" position="4">
+                <license name="BSD" url="http://software.clapper.org/grizzled-scala/license.html"/>
+                <metadata-artifact status="no" details="" size="3231" time="0"
+                                   location="/Users/Dor/.ivy2/cache/org.clapper/grizzled-scala_2.11/ivy-1.3.xml"
+                                   searched="false" origin-is-local="false"
+                                   origin-location="https://jcenter.bintray.com/org/clapper/grizzled-scala_2.11/1.3/grizzled-scala_2.11-1.3.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="1.3" rev-constraint-default="1.3"
+                        rev-constraint-dynamic="1.3" callerrev="1.0"/>
+                <artifacts>
+                    <artifact name="grizzled-scala_2.11" type="src" ext="jar" extra-classifier="sources" status="no"
+                              details="" size="134285" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.clapper/grizzled-scala_2.11/srcs/grizzled-scala_2.11-1.3-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/clapper/grizzled-scala_2.11/1.3/grizzled-scala_2.11-1.3-sources.jar"/>
+                    </artifact>
+                    <artifact name="grizzled-scala_2.11" type="jar" ext="jar" status="no" details="" size="508488"
+                              time="0"
+                              location="/Users/Dor/.ivy2/cache/org.clapper/grizzled-scala_2.11/jars/grizzled-scala_2.11-1.3.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/clapper/grizzled-scala_2.11/1.3/grizzled-scala_2.11-1.3.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+        <module organisation="jline" name="jline">
+            <revision name="2.6" status="release" pubdate="20120221230836" resolver="sbt-chain" artresolver="sbt-chain"
+                      homepage="" downloaded="false" searched="false" default="false"
+                      conf="default, compile, runtime, default(compile), master" position="6">
+                <license name="The BSD License" url="http://www.opensource.org/licenses/bsd-license.php"/>
+                <metadata-artifact status="no" details="" size="3320" time="0"
+                                   location="/Users/Dor/.ivy2/cache/jline/jline/ivy-2.6.xml" searched="false"
+                                   origin-is-local="false"
+                                   origin-location="https://jcenter.bintray.com/jline/jline/2.6/jline-2.6.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="2.6" rev-constraint-default="2.6"
+                        rev-constraint-dynamic="2.6" callerrev="1.0"/>
+                <artifacts>
+                    <artifact name="jline" type="jar" ext="jar" status="no" details="" size="183537" time="0"
+                              location="/Users/Dor/.ivy2/cache/jline/jline/jars/jline-2.6.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/jline/jline/2.6/jline-2.6.jar"/>
+                    </artifact>
+                    <artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="no" details=""
+                              size="64468" time="0"
+                              location="/Users/Dor/.ivy2/cache/jline/jline/srcs/jline-2.6-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/jline/jline/2.6/jline-2.6-sources.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+        <module organisation="org.scala-lang.modules" name="scala-async_2.11">
+            <revision name="0.9.1" status="release" pubdate="20140417145300" resolver="sbt-chain"
+                      artresolver="sbt-chain" homepage="http://github.com/scala/async" downloaded="false"
+                      searched="false" default="false" conf="default, compile, runtime, default(compile), master"
+                      position="5">
+                <license name="Scala license" url="https://github.com/scala/async/blob/master/LICENSE"/>
+                <metadata-artifact status="no" details="" size="3267" time="0"
+                                   location="/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/ivy-0.9.1.xml"
+                                   searched="false" origin-is-local="false"
+                                   origin-location="https://jcenter.bintray.com/org/scala-lang/modules/scala-async_2.11/0.9.1/scala-async_2.11-0.9.1.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="0.9.1" rev-constraint-default="0.9.1"
+                        rev-constraint-dynamic="0.9.1" callerrev="1.0"/>
+                <artifacts>
+                    <artifact name="scala-async_2.11" type="jar" ext="jar" status="no" details="" size="476691" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/jars/scala-async_2.11-0.9.1.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/modules/scala-async_2.11/0.9.1/scala-async_2.11-0.9.1.jar"/>
+                    </artifact>
+                    <artifact name="scala-async_2.11" type="src" ext="jar" extra-classifier="sources" status="no"
+                              details="" size="29152" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/srcs/scala-async_2.11-0.9.1-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/modules/scala-async_2.11/0.9.1/scala-async_2.11-0.9.1-sources.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+        <module organisation="org.scala-lang" name="jline">
+            <revision name="2.10.6" status="release" pubdate="20150918123534" resolver="sbt-chain"
+                      artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false"
+                      default="false" conf="default, compile, runtime, default(compile), master" position="2">
+                <license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html    "/>
+                <license name="The BSD License" url="http://www.opensource.org/licenses/bsd-license.php"/>
+                <metadata-artifact status="no" details="" size="2607" time="0"
+                                   location="/Users/Dor/.ivy2/cache/org.scala-lang/jline/ivy-2.10.6.xml"
+                                   searched="false" origin-is-local="false"
+                                   origin-location="https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="2.10.6"
+                        rev-constraint-default="2.10.6" rev-constraint-dynamic="2.10.6" callerrev="1.0"/>
+                <artifacts>
+                    <artifact name="jline" type="jar" ext="jar" status="no" details="" size="164623" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang/jline/jars/jline-2.10.6.jar">
+                        <origin-location is-local="false"
+                                         location="https://repo1.maven.org/maven2/org/scala-lang/jline/2.10.6/jline-2.10.6.jar"/>
+                    </artifact>
+                    <artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="no" details=""
+                              size="58779" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang/jline/srcs/jline-2.10.6-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/jline/2.10.6/jline-2.10.6-sources.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+        <module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
+            <revision name="1.0.4" status="release" pubdate="20150430170700" resolver="sbt-chain"
+                      artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false"
+                      default="false" conf="default, compile, runtime, default(compile), master" position="1">
+                <license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+                <metadata-artifact status="no" details="" size="2929" time="0"
+                                   location="/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.4.xml"
+                                   searched="false" origin-is-local="false"
+                                   origin-location="https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="1.0.4" rev-constraint-default="1.0.4"
+                        rev-constraint-dynamic="1.0.4" callerrev="1.0"/>
+                <artifacts>
+                    <artifact name="scala-parser-combinators_2.11" type="src" ext="jar" extra-classifier="sources"
+                              status="no" details="" size="42276" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/srcs/scala-parser-combinators_2.11-1.0.4-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar"/>
+                    </artifact>
+                    <artifact name="scala-parser-combinators_2.11" type="jar" ext="jar" status="no" details=""
+                              size="423753" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/jars/scala-parser-combinators_2.11-1.0.4.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+        <module organisation="org.scala-lang" name="scala-library">
+            <revision name="2.11.6" status="release" pubdate="20150226030100" resolver="sbt-chain"
+                      artresolver="sbt-chain" homepage="http://www.scala-lang.org/"
+                      extra-info.apiURL="http://www.scala-lang.org/api/2.11.6/" downloaded="false" searched="false"
+                      default="false" conf="default, compile, runtime, default(compile), master" position="0">
+                <license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+                <metadata-artifact status="no" details="" size="2653" time="0"
+                                   location="/Users/Dor/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.6.xml"
+                                   searched="false" origin-is-local="false"
+                                   origin-location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.pom"/>
+                <caller organisation="default" name="lispinterpreterinscala$sources_2.11"
+                        conf="compile-internal, compile, provided, optional" rev="2.11.6"
+                        rev-constraint-default="2.11.6" rev-constraint-dynamic="2.11.6" callerrev="1.0"
+                        extra-info.apiURL="http://www.scala-lang.org/api/2.11.6/"/>
+                <artifacts>
+                    <artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no"
+                              details="" size="906435" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.6-sources.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6-sources.jar"/>
+                    </artifact>
+                    <artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5564007" time="0"
+                              location="/Users/Dor/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar">
+                        <origin-location is-local="false"
+                                         location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar"/>
+                    </artifact>
+                </artifacts>
+            </revision>
+        </module>
+    </dependencies>
+</ivy-report>

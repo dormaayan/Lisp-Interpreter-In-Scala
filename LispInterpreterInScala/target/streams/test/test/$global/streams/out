@@ -1,0 +1,24 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.VariablesTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.MergeSortTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.ValuesEvaluationTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.FunctionTableTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.ConditionsTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.BasicOperationsTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.LambdaExpressionsTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.ListsOperations, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LispInterpreter.RecurseiveFunctionsTest, org.scalatest.tools.Framework$$anon$1@38cded34, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 212 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 26[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 9, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 26, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.BasicOperationsTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.LambdaExpressionsTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.MergeSortTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.ValuesEvaluationTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.RecurseiveFunctionsTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.ConditionsTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.ListsOperations[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.VariablesTest[0m
+[0m[[0mdebug[0m] [0m	LispInterpreter.FunctionTableTest[0m

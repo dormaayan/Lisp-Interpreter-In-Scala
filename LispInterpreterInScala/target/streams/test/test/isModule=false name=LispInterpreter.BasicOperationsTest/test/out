@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mBasicOperationsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mAdd & Subtract[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return the right result[0m[0m
+[0m[[0minfo[0m] [0m[32m	Multiply & Divide[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return the right result[0m[0m
+[0m[[0minfo[0m] [0m[32mCompare Operations[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return the right result[0m[0m
+[0m[[0minfo[0m] [0m[32mMulti-line code[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not crash[0m[0m
+[0m[[0minfo[0m] [0m[32m- should still work if only one element is passed[0m[0m

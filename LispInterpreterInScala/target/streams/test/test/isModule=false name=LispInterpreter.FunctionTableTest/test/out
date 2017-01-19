@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mFunctionTableTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mDefinitions of functions [0m[0m
+[0m[[0minfo[0m] [0m[32m- should works[0m[0m
+[0m[[0minfo[0m] [0m[32mFunctions with the same name and a different degree[0m[0m
+[0m[[0minfo[0m] [0m[32m- should does not override each other in the function table[0m[0m

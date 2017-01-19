@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0mRunning LispInterpreter.MainObject [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/Desktop/LispInterpreterInScala/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.sbt/boot/scala-2.10.6/lib/jline.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.ivy2/cache/org.clapper/argot_2.11/jars/argot_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.ivy2/cache/org.clapper/grizzled-scala_2.11/jars/grizzled-scala_2.11-1.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.ivy2/cache/org.scala-lang.modules/scala-async_2.11/bundles/scala-async_2.11-0.9.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/Dor/.ivy2/cache/jline/jline/jars/jline-2.6.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0m[32mListsOperations:[0m[0m
+[0m[[0minfo[0m] [0m[32mcar[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give the head of the list[0m[0m
+[0m[[0minfo[0m] [0m[32mcdr[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give the rest of the list[0m[0m
+[0m[[0minfo[0m] [0m[32mrange[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give a range of numbers[0m[0m
+[0m[[0minfo[0m] [0m[32mlength[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the length of a list[0m[0m
+[0m[[0minfo[0m] [0m[32mappend[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a merged list of all the given lists[0m[0m
+[0m[[0minfo[0m] [0m[32mmap[0m[0m
+[0m[[0minfo[0m] [0m[32m- should map the values of a list from a lanbda expression to a new list[0m[0m
+[0m[[0minfo[0m] [0m[32mreduce[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work right[0m[0m
+[0m[[0minfo[0m] [0m[32mfilter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should filter a list with a given Lambda expression[0m[0m
+[0m[[0minfo[0m] [0m[32mfoldl[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work right[0m[0m

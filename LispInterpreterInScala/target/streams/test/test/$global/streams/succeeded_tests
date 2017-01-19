@@ -1,0 +1,14 @@
+#Successful Tests
+#Thu Jan 19 23:51:07 IST 2017
+LispInterpreter.MergeSortTest=1484862667004
+LispInterpreter.ValuesEvaluationTest=1484862667002
+LispInterpreter.ListsOperations=1484862667023
+LispInterpreter.LambdaSpec=1484854822081
+LispInterpreter.VariablesTest=1484862667002
+LispInterpreter.RecurseiveFunctionsTest=1484862667033
+LispInterpreter.ConstantSpec=1484854822076
+LispInterpreter.BasicOperationsTest=1484862667006
+LispInterpreter.FibonnaciTest=1484862206910
+LispInterpreter.ConditionsTest=1484862667002
+LispInterpreter.LambdaExpressionsTest=1484862667002
+LispInterpreter.FunctionTableTest=1484862667002
